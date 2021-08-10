@@ -1,0 +1,22 @@
+{
+  "name": "pantheon",
+  "version": "1.0.0",
+  "description": "Полеты на марс",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koman4git/6.-Pantheon---flights-to-mars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koman4git/6.-Pantheon---flights-to-mars/issues"
+  },
+  "homepage": "https://github.com/koman4git/6.-Pantheon---flights-to-mars#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
