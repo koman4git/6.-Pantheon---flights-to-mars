@@ -27,6 +27,7 @@ let {src, dest} = require('gulp');
     cleanCSS = require('gulp-clean-css');
     webp = require('gulp-webp');
     webpHTML = require('gulp-webp-html');
+    video64 = require('gulp-video64');
              
 
 function browserSync(params) {
